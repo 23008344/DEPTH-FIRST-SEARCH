@@ -69,7 +69,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 </ol>
 <h3>Program</h3>
 
-<h2>from collections import deque from collections import defaultdict</h2>
+<h4>from collections import deque from collections import defaultdict</h4>
 
 ```
 V E
